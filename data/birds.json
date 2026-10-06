@@ -1,0 +1,13 @@
+[
+  { "id": 1, "species": "Osprey", "count": 1, "location": "Saltmarsh Point", "observedAt": "2026-09-14T07:40:00Z", "notes": "Carrying a fish back to the nest platform." },
+  { "id": 2, "species": "Little Egret", "count": 3, "location": "Harbour Lane hide", "observedAt": "2026-09-14T08:05:00Z", "notes": "Feeding along the creek edge at low water." },
+  { "id": 3, "species": "Curlew", "count": 12, "location": "Mudflats north", "observedAt": "2026-09-15T17:20:00Z", "notes": "" },
+  { "id": 4, "species": "Oystercatcher", "count": 40, "location": "Shingle spit", "observedAt": "2026-09-16T06:55:00Z", "notes": "High-tide roost." },
+  { "id": 5, "species": "Marsh Harrier", "count": 1, "location": "Reedbed west", "observedAt": "2026-09-18T18:10:00Z", "notes": "Female, quartering low over the reeds." },
+  { "id": 6, "species": "Kingfisher", "count": 1, "location": "Harbour Lane hide", "observedAt": "2026-09-20T07:15:00Z", "notes": "Perched on the sluice rail." },
+  { "id": 7, "species": "Osprey", "count": 2, "location": "Saltmarsh Point", "observedAt": "2026-09-21T16:30:00Z", "notes": "Pair, one on the platform and one circling." },
+  { "id": 8, "species": "Avocet", "count": 7, "location": "Scrape lagoon", "observedAt": "2026-09-23T09:00:00Z", "notes": "" },
+  { "id": 9, "species": "Redshank", "count": 15, "location": "Mudflats north", "observedAt": "2026-09-25T15:45:00Z", "notes": "Mixed with a few dunlin." },
+  { "id": 10, "species": "Lapwing", "count": 60, "location": "Grazing marsh", "observedAt": "2026-09-28T10:20:00Z", "notes": "Loose flock, very vocal." },
+  { "id": 11, "species": "Bar-tailed Godwit", "count": 9, "location": "Shingle spit", "observedAt": "2026-10-02T08:50:00Z", "notes": "Two still in summer plumage." }
+]
